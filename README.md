@@ -3,7 +3,6 @@ Java, JSP and MySQL Project on Bus Ticket Booking System
 <h1>Project Demo</h1>
 https://youtu.be/3uQ0uITLEGg
 
-# Developed By : Md Rukon Shekh 
 # Language : Java,Jsp,HTML,CSS,Javascript,html,css,ajax,jquery,mysql
 # IDE : Eclipse Jee
 # Server: tomcat
